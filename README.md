@@ -1,2 +1,2 @@
 # BetterCrosshair
-Small Minecraft mod for modifying the crosshair
+Small Minecraft mod for modifying the crosshair.
